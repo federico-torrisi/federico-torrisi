@@ -7,9 +7,6 @@ federico-torrisi/federico-torrisi is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-People who visited my page:
-
-![Visitor Count](https://profile-counter.glitch.me/federico-torrisi/count.svg)
 
 <img src="https://camo.githubusercontent.com/eb8574f621f8614edba122d8c69ee780a608b40173e581c477bb89bfec0ef62e/68747470733a2f2f6c616e6773746f6e6b732e6e6574736f6e732e6f72672f696d672f6765636f2e676966">
 
